@@ -1,6 +1,6 @@
 ## Description
 
-This project implements JWT (JSON Web Tokens) Authentication inside a nestJS application. It will use access tokens to get new refresh tokens. It will use [Nest](https://github.com/nestjs/nest) framework as our server and have two resources, user and auth.
+This project will create a fully working JWT authenticated server using Nest.js and implements JWT (JSON Web Tokens) Authentication. It will use access tokens to get new refresh tokens. It will use the [Nest](https://github.com/nestjs/nest) framework as our server and have two resources, user and auth. It can be tested using Postman to make sure the correct replies are received. 
 
 ## Running the app
 
